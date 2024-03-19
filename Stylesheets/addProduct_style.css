@@ -1,0 +1,98 @@
+.product_add{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    
+}
+.field_one_one{
+   padding-top: 30px;
+   
+    font-size: 20px;
+    
+    
+}
+#text_field_one{
+    margin-left: 45px;
+    padding-left: 10px;
+    width: 470px;
+    height : 40px;
+    box-shadow: 1px 1px 2px 2px lightgray;
+}
+textarea{
+     box-shadow: 1px 1px 2px 2px lightgray;
+     padding-left: 10px;
+}
+#name{
+    padding-right: 40px;
+    
+}
+p{
+    font-size: 15px;
+}
+#text_field_three{
+    margin-left: 60px;
+    padding-left: 10px;
+    width: 470px;
+    height : 40px;
+    box-shadow: 1px 1px 2px 2px lightgray;
+}
+#text_field_four{
+    margin-left: 95px;
+    padding-left: 10px;
+    width: 470px;
+    height : 40px;
+    box-shadow: 1px 1px 2px 2px lightgray;
+}
+#text_field_five{
+    margin-left: 110px;
+    padding-left: 10px;
+    width: 470px;
+    height : 40px;
+    box-shadow: 1px 1px 2px 2px lightgray;
+}
+#text_field_six{
+    margin-left: 65px;
+    padding-left: 10px;
+    width: 470px;
+    height : 40px;
+    box-shadow: 1px 1px 2px 2px lightgray;
+}
+#text_field_seven{
+    margin-left: 15px;
+    padding-left: 10px;
+    width: 470px;
+    height : 40px;
+    box-shadow: 1px 1px 2px 2px lightgray;
+}
+#text_field_eight{
+    margin-left: 30px;
+    padding-left: 10px;
+    width: 470px;
+    height : 40px;
+    box-shadow: 1px 1px 2px 2px lightgray;
+}
+#field_one_two{
+    margin-top: 5%;
+    margin-left: 40%;
+    margin-bottom: 5%;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: rgba(168, 22, 192, 1);
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#field_one_two:hover{
+    font-size: 17px;
+    border-radius: 5px;
+}
+#icon{
+    padding-right: 20px;
+    float: right;
+/*    margin-left: 94%;*/
+font-size: 60px;
+
+}
+

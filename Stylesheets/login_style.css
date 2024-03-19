@@ -1,0 +1,51 @@
+
+.box_one{
+    margin-bottom: 5%;
+    margin-left: 29%;
+    margin-top: 5%;
+    width: 650px;
+    height: 450px;
+    background-color: rgb( 250, 230, 250);
+    box-shadow: 2px 2px gray;
+    border-radius: 10px;
+    /*display: flex;*/
+    /*justify-content: center;*/
+    text-align: center;
+}
+.text{
+    padding: 10px;
+}
+#text_one{
+    padding-top: 20px;
+    font-size: 23px;
+}
+#text_two{
+    color:grey;
+}
+#field_one{
+    width: 450px;
+    height: 35px;
+    margin: 10px;
+    box-shadow: 2px 2px lightgray;
+    border-radius: 3px;
+    padding-left:  2%;
+    
+}
+#field_two{
+    width: 450px;
+    height: 35px;
+    box-shadow: 2px 2px lightgray;
+    border-radius: 3px;
+    
+    padding-left:  2%;
+    background-color: rgba(168, 22, 192, 1);
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+}
+#field_two:hover{
+    font-size: 17px;
+}
+.box_two{
+   
+}
