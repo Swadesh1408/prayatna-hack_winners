@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JSE_Project/hack_winners/web/Stylesheets/header_style.css</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/Stylesheets/yourProducts_style.css</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/productDetail.jsp</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/Stylesheets/login_style.css</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/sidebar.jsp</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/userPage.jsp</file>
+            <file>file:/D:/JSE_Project/hack_winners/src/java/sellada/pojo/ProductPojo.java</file>
+            <file>file:/D:/JSE_Project/hack_winners/src/java/sellada/controller/SellerProductAdding.java</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/Stylesheets/sidebar_style.css</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/Stylesheets/index_header_style.css</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/header.jsp</file>
+            <file>file:/D:/JSE_Project/hack_winners/src/java/sellada/controller/YourProducts.java</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/AddProduct.jsp</file>
+            <file>file:/D:/JSE_Project/hack_winners/src/java/sellada/model/SignupModel.java</file>
+            <file>file:/D:/JSE_Project/hack_winners/src/java/sellada/controller/SellerSignup.java</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/login.jsp</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/Stylesheets/userPage-style.css</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/signupPage.jsp</file>
+            <file>file:/D:/JSE_Project/hack_winners/src/java/sellada/util/API.java</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/translator.jsp</file>
+            <file>file:/D:/JSE_Project/hack_winners/src/java/sellada/model/ProductModel.java</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/index_header.jsp</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/yourProducts.jsp</file>
+            <file>file:/D:/JSE_Project/hack_winners/src/java/sellada/controller/SellerLogin.java</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/Stylesheets/translator_style.css</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/Stylesheets/addProduct_style.css</file>
+            <file>file:/D:/JSE_Project/hack_winners/src/java/sellada/util/SellerDetails.java</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/footer.jsp</file>
+            <file>file:/D:/JSE_Project/hack_winners/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>

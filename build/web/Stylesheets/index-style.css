@@ -1,0 +1,46 @@
+
+.welcome{
+    margin-left: 20%;
+    margin-top: 5%;
+    line-height: 50px;
+}
+#p1{
+    color: rgba(168, 22, 192, 1);
+    font-family: Ink Free;
+    font-size: 70px;
+    
+}
+
+/*body{
+    background-image: url("media/image/LoginImag.png");
+    width: 100%;
+    background-size: 100% 100%; 
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}*/
+.bgimage{
+    overflow: hidden;
+    
+    /*background-size: 100% 100%;*/ 
+    justify-content: center;
+    display: flex;
+    /*align-content: center;*/
+   background-attachment: fixed;
+    width: 100%;
+    height: 60%;
+}
+#button_center{
+    margin-top: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-left: 350px;
+    width: 300px;
+    height: 55px;
+    color:#fff;
+    background-color: rgba(168, 22, 192, 1);
+    cursor: pointer;
+}
+#button_center:hover{
+    font-size: 22px;
+}
