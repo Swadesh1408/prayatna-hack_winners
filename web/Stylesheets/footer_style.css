@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+footer{
+    height: 50px;
+    width: 100%;
+    background: grey;
+    position: absolute;
+    margin-top: auto;
+}
+#apiKey{
+    color: white;
+    font-size: 120%;
+    display: inline-block;
+    margin-top: 10px;
+    padding-left: 5%;
+}
+#developedBy{
+    color: white;
+    font-size: 120%;
+    float: right;
+    display: inline-block;
+    margin-top: 10px;
+    padding-right: 5%;
+}

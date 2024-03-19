@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    /*justify-content: center;*/
+    align-items: center;
+    width: 100%;
+    height: 5%;
+    border-radius: 10px;
+    background-color: rgb(221,160,221);
+    box-shadow: 2px 2px grey;
+    
+}
+/*#icon_one{
+    font-size: 25px;
+    padding-left: 25px;
+    padding-right: 15px;
+    cursor: pointer;*/
+    
+
+#icon_two{
+    font-size: 25px;
+    padding-left: 20px;
+    padding-right: 350px;
+    cursor: pointer;
+}
+#text_field{
+    font-size: 20px;
+    padding-left: 40px;
+    width: 600px;
+    height: 40px;
+    border-radius: 5px;
+    box-shadow: 2px 2px lightgray;
+    /*padding-right: 200px;*/
+}
+#icon_three{
+    padding-left: 480px;
+    font-size: 25px;
+    cursor: pointer;
+}
+#sellerName{
+    position: absolute;
+    right: 110px;
+    text-align: right;
+    font-size: 120%;
+}
